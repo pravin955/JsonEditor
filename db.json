@@ -1,0 +1,15 @@
+{
+  "id": "100",
+  "screenName": "name",
+  "screenDesc": "name",
+  "merchantId": 123,
+  "screenFetchType": "name",
+  "preBundled": "name",
+  "version": 123,
+  "createdBy": "name",
+  "themeId": "name",
+  "styleId": "name",
+  "screenGroup": "name",
+  "grids": [
+  ]
+}
